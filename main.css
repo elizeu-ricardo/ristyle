@@ -74,4 +74,8 @@ textarea {
     .carousel-item img {
         height: 280px;
     }
+
+    .cards {
+        margin-bottom: 10px;
+    }
 }
